@@ -51,5 +51,6 @@
 </p>
 
 - <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [TEAM007](https://github.com/iloveyoupagal) ғᴏʀ [TEAM007](https://github.com/iloveyoupagal/SAKSHIMUSICBOT)_ </b>
-<a href="https://t.me/King_82w"><img src="https://img.shields.io/badge/-Support%20OWNER-blue.svg?style=for-the-badge&logo=Telegram"></a>
+
+<a href="https://t.me/King_8W"><img src="https://img.shields.io/badge/-Support%20OWNER-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
